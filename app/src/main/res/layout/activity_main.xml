@@ -30,7 +30,7 @@
         android:layout_marginStart="0dp"
         android:layout_marginLeft="0dp"
         android:layout_marginBottom="634dp"
-        android:text="Left Top" />
+        android:text="Top Left" />
 
     <Button
         android:id="@+id/button6"
@@ -42,5 +42,5 @@
         android:layout_marginEnd="3dp"
         android:layout_marginRight="3dp"
         android:layout_marginBottom="51dp"
-        android:text="Right Bottom" />
+        android:text="Bottom Right" />
 </RelativeLayout>
